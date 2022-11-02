@@ -116,13 +116,13 @@ def main():
     args = sys.argv
     print(args[1])
 
-    directory = args[1]
+    directory = args[1] + "/"
     images = []
 
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         if os.path.isfile(f):
-            images.append(f.split("\\")[1])
+            images.append(f.split("/")[1])
     print(images)
 
     for filename in images:
