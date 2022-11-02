@@ -44,10 +44,10 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sefakrb/testere-korku-evi.git
+   git clone https://github.com/sefakrb/Colorizing-the-Prokudin-Gorskii-Photo-Collection.git
    ```
 2. Run Script 
-   * Run on development mode
+   Run on development mode
      ```sh
      python main.py data
      ```
