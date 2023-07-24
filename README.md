@@ -55,7 +55,7 @@
 
 
 ## Contact
-Sefa Karabaş - sefa799@gmail.com
+Sefa Karabaş - sefaa.karabas@gmail.com
 Project Link: [https://github.com/sefakrb/Colorizing-the-Prokudin-Gorskii-Photo-Collection](https://github.com/sefakrb/Colorizing-the-Prokudin-Gorskii-Photo-Collection)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
